@@ -1,0 +1,17 @@
+C:\Users\axzyte385\source\repos\MidTerm991667498NoopurPatel\MidTerm991667498NoopurPatel\obj\Debug\MidTerm991667498NoopurPatel.csproj.AssemblyReference.cache
+C:\Users\axzyte385\source\repos\MidTerm991667498NoopurPatel\MidTerm991667498NoopurPatel\obj\Debug\AddBookWindow.g.cs
+C:\Users\axzyte385\source\repos\MidTerm991667498NoopurPatel\MidTerm991667498NoopurPatel\obj\Debug\MainWindow.g.cs
+C:\Users\axzyte385\source\repos\MidTerm991667498NoopurPatel\MidTerm991667498NoopurPatel\obj\Debug\App.g.cs
+C:\Users\axzyte385\source\repos\MidTerm991667498NoopurPatel\MidTerm991667498NoopurPatel\obj\Debug\MidTerm991667498NoopurPatel_MarkupCompile.cache
+C:\Users\axzyte385\source\repos\MidTerm991667498NoopurPatel\MidTerm991667498NoopurPatel\obj\Debug\MidTerm991667498NoopurPatel_MarkupCompile.lref
+C:\Users\axzyte385\source\repos\MidTerm991667498NoopurPatel\MidTerm991667498NoopurPatel\bin\Debug\MidTerm991667498NoopurPatel.exe.config
+C:\Users\axzyte385\source\repos\MidTerm991667498NoopurPatel\MidTerm991667498NoopurPatel\bin\Debug\MidTerm991667498NoopurPatel.exe
+C:\Users\axzyte385\source\repos\MidTerm991667498NoopurPatel\MidTerm991667498NoopurPatel\bin\Debug\MidTerm991667498NoopurPatel.pdb
+C:\Users\axzyte385\source\repos\MidTerm991667498NoopurPatel\MidTerm991667498NoopurPatel\obj\Debug\AddBookWindow.baml
+C:\Users\axzyte385\source\repos\MidTerm991667498NoopurPatel\MidTerm991667498NoopurPatel\obj\Debug\MainWindow.baml
+C:\Users\axzyte385\source\repos\MidTerm991667498NoopurPatel\MidTerm991667498NoopurPatel\obj\Debug\MidTerm991667498NoopurPatel.g.resources
+C:\Users\axzyte385\source\repos\MidTerm991667498NoopurPatel\MidTerm991667498NoopurPatel\obj\Debug\MidTerm991667498NoopurPatel.Properties.Resources.resources
+C:\Users\axzyte385\source\repos\MidTerm991667498NoopurPatel\MidTerm991667498NoopurPatel\obj\Debug\MidTerm991667498NoopurPatel.csproj.GenerateResource.cache
+C:\Users\axzyte385\source\repos\MidTerm991667498NoopurPatel\MidTerm991667498NoopurPatel\obj\Debug\MidTerm991667498NoopurPatel.csproj.CoreCompileInputs.cache
+C:\Users\axzyte385\source\repos\MidTerm991667498NoopurPatel\MidTerm991667498NoopurPatel\obj\Debug\MidTerm991667498NoopurPatel.exe
+C:\Users\axzyte385\source\repos\MidTerm991667498NoopurPatel\MidTerm991667498NoopurPatel\obj\Debug\MidTerm991667498NoopurPatel.pdb
